@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
   actions: {
     flexDirection: 'row',
     gap: 8,
+    justifyContent: 'flex-end',
   },
   editBtn: {
     paddingVertical: 6,
